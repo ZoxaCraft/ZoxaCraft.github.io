@@ -1,1 +1,1 @@
-# clash-tracker-documetation
+# clash-tracker-documentation
